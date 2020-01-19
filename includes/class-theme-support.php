@@ -27,6 +27,10 @@ class WeDocs_Theme_Support {
             case 'twentyfifteen':
                 include_once __DIR__ . '/theme-support/twentyfifteen.php';
                 break;
+
+            case 'neve':
+                include_once __DIR__ . '/theme-support/neve.php';
+                break;
         }
     }
 
