@@ -66,6 +66,7 @@ body.single.single-docs .content-area {
 }
 .wedocs-single-wrap {
   width: 100%;
+  margin-top: 30px;
   display: -ms-flex;
   display: -webkit-flex;
   display: flex;
@@ -325,6 +326,7 @@ body.single.single-docs .content-area {
   padding: 0;
   list-style: none;
   width: 100%;
+  max-width: 100%;
 }
 .wedocs-shortcode-wrap ul.wedocs-docs-list:before,
 .wedocs-shortcode-wrap ul.wedocs-docs-list:after {
